@@ -10,7 +10,8 @@
         <div>
             <h1>Home</h1>
             <p>
-                Nephi Szvoboda is a Fullstack Web Developer, the purpose of this site is to show off his work and projects.
+                Nephi Szvoboda is a Fullstack Web Developer, the purpose of this site is to show off his work and projects,
+                thus giving potential employers a better understanding of Nephi's skillset and experience in Web Development.
             </p>
             <header role="banner">
                 <div>
